@@ -1,0 +1,10 @@
+'.source.coke':
+  'dom ':
+    'prefix': 'm '
+    'body': '''
+      dom render(items)
+        <ul>
+          for item in items
+            <li>
+              =item
+    '''

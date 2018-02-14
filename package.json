@@ -1,0 +1,17 @@
+{
+  "name": "language-cokescript",
+  "version": "0.0.0",
+  "description": "CokeScript language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batiste/CokeScript"
+  },
+  "bugs": {
+    "url": "https://github.com/batiste/CokeScript/issues"
+  },
+  "license": "MIT"
+}
